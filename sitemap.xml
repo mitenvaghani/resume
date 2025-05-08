@@ -1,34 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://mitenvaghani.github.io/resume/</loc>
-    <lastmod>2025-06-05</lastmod>
-  </url>
-  <url>
-    <loc>https://mitenvaghani.github.io/resume/assets/images/slider/banner-01.webp</loc>
-    <lastmod>2025-06-05</lastmod>
-  </url>
-    <url>
-    <loc>https://mitenvaghani.github.io/resume/assets/images/logo/logo.webp</loc>
-    <lastmod>2025-06-05</lastmod>
-  </url>
-  <url>
-    <loc>https://www.facebook.com/people/Vaghani-Miten/pfbid0ptDzBYCqT5E7ow3uXML7PhgitvSNqPQZBZjfxbi4XQKRbmvjtufEqxNf3ArYB7hol/</loc>
-    <lastmod>2025-06-05</lastmod>
-  </url>
-  <url>
-    <loc>https://www.instagram.com/miten_vaghani/</loc>
-    <lastmod>2025-06-05</lastmod>
-  </url>
-  <url>
-    <loc>https://www.linkedin.com/in/vaghani-miten-b255312b6/</loc>
-    <lastmod>2025-06-05</lastmod>
-  </url>
-  <url>
-    <loc>https://mitenvaghani.github.io/resume/assets/images/slider/contact1.webp</loc>
-    <lastmod>2025-06-05</lastmod>
-  </url>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
+
+<url>
+  <loc>https://mitenvaghani.github.io/resume/</loc>
+  <lastmod>2025-05-06T12:35:34+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://mitenvaghani.github.io/resume/index.html</loc>
+  <lastmod>2025-05-06T12:35:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
 
 
 </urlset>
